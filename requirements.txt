@@ -1,5 +1,5 @@
 flask
 newrelic
-selenium==2.39.0
+selenium
 werkzeug
 uWSGI
